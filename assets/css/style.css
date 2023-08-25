@@ -1,0 +1,21 @@
+.Perfil{
+border-radius: 100%;
+max-width: 200px;
+}
+body{
+    background-color: rgb(198, 198, 198);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+.row{
+background: white;
+}
+.row1{
+    background: white;
+    width: 1140px;
+    position: relative;
+    left: 12.35%;
+}
