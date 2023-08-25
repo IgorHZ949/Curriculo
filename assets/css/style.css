@@ -15,7 +15,8 @@ background: white;
 }
 .row1{
     background: white;
-    width: 89.3%;
+    min-width: 540px;
+    width: 80%;
     max-width: 1140px;
     position: relative;
     left: 50%;
