@@ -15,7 +15,8 @@ background: white;
 }
 .row1{
     background: white;
-    width: 1140px;
+    width: 89.3%;
+    max-width: 1140px;
     position: relative;
     left: 50%;
     transform: translate(-50%);
